@@ -51,7 +51,7 @@ class Main extends PluginBase implements Listener{
 			switch($command){
 				case "/help":
 				{
-					$sender->sendMessage("首先要找power777888申请OP权限\n//set 方块ID   填充方块\n//wand   开/关法杖功能\n//replace 需要被替换的方块的ID 替换成哪个方块的ID   替换方块\n//pos1   使用指令设置第一个点\n//pos2   使用指令设置第二个点\n//undo   撤回上一次的操作\n//cyl 方块ID 半径   你的位置为中心点生成一个实心圆柱体\n//hcyl 方块ID 半径   你的位置为中心生成一个空心圆柱体\n//redo   //undo的反向指令\n//copy   把你选定的区域内的方块复制到“剪贴板”里（如果你是站在要复制的这个东西的左边输入//copy，那你要//paste的时候这个东西就在你的左边，其他的方向如此）\n//paste   把剪贴板里的建筑复制出来");
+					$sender->sendMessage("first findpower777888applicationOPpermissions\n//set squareID   square fill box\n//wand   开/关法杖功能\n//replace 需要被替换的方块的ID 替换成哪个方块的ID   替换方块\n//pos1   使用指令设置第一个点\n//pos2   使用指令设置第二个点\n//undo   撤回上一次的操作\n//cyl 方块ID 半径   你的位置为中心点生成一个实心圆柱体\n//hcyl 方块ID 半径   你的位置为中心生成一个空心圆柱体\n//redo   //undo的反向指令\n//copy   把你选定的区域内的方块复制到“剪贴板”里（如果你是站在要复制的这个东西的左边输入//copy，那你要//paste的时候这个东西就在你的左边，其他的方向如此）\n//paste   把剪贴板里的建筑复制出来");
 					break;
 				}
 
